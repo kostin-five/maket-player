@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: url('images/background.png');
+    background-size: cover;
+    width: 100%;
+    height: 1024px;
+    margin-right: 0;
+    padding: 0;
+}
+
+.header_text_first {
+    display: inline-block;
+    color: white;
+    font-family: Libre Barcode 128 Text;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 80px;
+    text-align: left;
+    margin-top: 47px;
+    margin-left: 122px;
+}
+
+.ref {
+    margin-left: 0;
+    margin-top: 74px;
+    display: inline-block;
+
+}
+
+.header_text {
+    margin-left: 100px;
+    font-family: Istok Web;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.91px;
+    color: white;
+    width: 26px;
+    height: 26px;
+    text-decoration: none;
+    text-align: left;
+}
+
+.player {
+    display: block;
+    width: 412px;
+    height: 264px;
+    margin-top: 200px;
+    margin-left: 115px;
+
+}
+
+.player_text {
+    color: white;
+    font-family: Kenia;
+    font-size: 150px;
+    font-weight: 400;
+    line-height: 150px;
+    text-align: left;
+}
+
+.company {
+    color: white;
+    margin-top: 200px;
+    margin-left: 115px;
+    font-family: Istok Web;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.79px;
+    text-align: left;
+
+}
+
+.phone_image {
+    transform: translate(920px, -717px);
+}
+
+.cabel {
+    transform: translate(970px, -878px);
+}
+
+.article {
+    background-color: #D53005;
+    width: 100%;
+    height: 1024px;
+}
+
+.music {
+    display: block;
+    width: 84px;
+    height: 35px;
+    margin-left: 122px;
+    padding-top: 83px;
+}
+
+.music_text {
+    color: white;
+    font-family: Karla;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.07px;
+}
+
+.buttons {
+    margin-top: 250px;
+}
+
+.button {
+    display: block;
+    border: 1px solid black;
+    font-family: Karla;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.76px;
+    color: white;
+    width: 382px;
+    height: 82px;
+    margin-top: 120px;
+    margin-left: 122px;
+    background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%);
+    box-shadow: 2px 2px 4px black;
+}
+
+.ref_button {
+    text-decoration: none;
+    color: white;
+}
+
+.albom {
+    transform: translate(455px, -467px);
+}
+
+.main {
+    background: linear-gradient(180deg, #D53005 0%, #000000 6.04%);
+    width: 100%;
+    height: 1024px;
+}
+
+.about {
+    display: block;
+    width: 84px;
+    height: 35px;
+    margin-left: 122px;
+    padding-top: 83px;
+}
+
+.about_text {
+    color: white;
+    font-family: Karla;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.07px;
+}
+
+.main_text {
+    color: white;
+    font-family: Karla;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.07px;  
+    width: 969px;
+    height: 72px;
+    margin-top: 360px;
+    margin-left: 275px;
+    margin-right: 275px;
+}
+
+.ttext_main {
+    text-align: justify;
+}
+
+.article1 {
+    background-color: #D53005;
+    width: 100%;
+    height: 1024px;
+}
+
+.store {
+    display: block;
+    width: 84px;
+    height: 35px;
+    margin-left: 122px;
+    padding-top: 83px;
+}
+
+.store_text {
+    color: white;
+    font-family: Karla;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.07px;
+}
+
+.monitor {
+    float:right;
+}
+
+.knopki {
+    clear: left;
+    margin-top: 120px;
+    margin-right: 0;
+}
+
+.knopka {
+    width: 200px;
+    height: 50px;
+    display: block;
+    border: 1px solid black;
+    box-shadow: 1px 1px 2px black;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.38px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 110px;
+
+}
+
+.knopka:first-child {
+    color: white;
+    background: #020202E5;
+    
+}
+
+.knopka:last-child {
+    color: black;
+    background: #E3E3E3;
+}
+
+.texts {
+    display: block;
+    color: white;
+    margin-left: 25px;
+    margin-top: 140px;
+    text-align: center;
+    width: 450px;
+    height: 200px;
+    margin-right: 0;
+}
+
+.text1 {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25.6px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.text2 {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.94px;
+}
+
+.text3 {
+    color:black;
+}
+
+.ref_store {
+    color:black;
+}
+
+.footer {
+    background: linear-gradient(180deg, #D53005 0%, #000000 4.01%);
+    width: 100%;
+    height: 536px;
+}
+
+.table {
+    margin-left: 350px;
+    padding-top: 100px;
+    color: white;
+    border-spacing: 130px 20px;
+    table-layout: fixed;
+    text-align: left;
+}
+
+.table th {
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 24.38px;
+}
+
+.table td {
+    font-size: 16px;
+    line-height: 19.5px;
+}
+
+.musica {
+    width: 138px;
+    height: 100px;
+    margin-left: 110px;
+    margin-top: 60px;
+}
+
+.musica_text {
+    font-family: Kenia;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: left;
+    color: white;
+}
+
+.list {
+    list-style-type: none;
+    color: white;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.29px;
+}
+
+.list li {
+    display: inline-block;
+    margin-left: 110px;
+}
